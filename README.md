@@ -1,6 +1,6 @@
 # 🐳 숨고 구성원과 함께하는 Docker 공식문서 스터디
 
-- [공식문서](https://docs.docker.com/get-started/overview)
+[공식문서](https://docs.docker.com/get-started/overview)
 
 <img src="https://github.com/Soomgo-public/docker-study/assets/82315118/19fc0801-2043-4cdc-8fb5-6fd70c5d3cc8" width="350" height="350" />
 
