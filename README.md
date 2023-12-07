@@ -50,12 +50,5 @@
               <sub><b>Holand</b></sub>
           </a>
       </td>
-      <td align="center">
-          <a href="https://github.com/changwoolab">
-              <img src="https://avatars.githubusercontent.com/u/64240134?v=4" width="100;" alt="soomgo-carter"/>
-              <br />
-              <sub><b>Carter</b></sub>
-          </a>
-      </td>
       </tr>
 </table>
