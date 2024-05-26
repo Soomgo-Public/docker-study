@@ -1,12 +1,10 @@
 # 🐳 숨고 구성원과 함께하는 Docker 공식문서 스터디
 
+[공식문서](https://docs.docker.com/get-started/overview)
+
 <img src="https://github.com/Soomgo-public/docker-study/assets/82315118/19fc0801-2043-4cdc-8fb5-6fd70c5d3cc8" width="350" height="350" />
 
-<br />
-
-<a href="./Season1">**_Season 1 공식문서 스터디_**</a>
-
-<br/>
+<br /><br/>
 
 ## 💯 학습목표
 
@@ -20,8 +18,9 @@
 ## 🔥 운영방향
 
 ```
-- 스터디는 매 주 월요일 점심시간, 목요일 오전 9시에 진행합니다.
-- "도커 교과서"를 읽고, 내용에 관하여 자유롭게 토론합니다.
+- 스터디는 기본적으로 매일 점심시간에 진행합니다.
+- Docker 공식문서를 읽고, 내용에 관하여 자유롭게 토론합니다.
+- Action Item이 도출된 경우, 실행 후 내용을 공유합니다.
 ```
 
 <br />
@@ -45,17 +44,10 @@
           </a>
       </td>
       <td align="center">
-          <a href="https://github.com/hyenees">
-              <img src="https://avatars.githubusercontent.com/u/60595240?v=4" width="100;" alt="soomgo-hazle"/>
+          <a href="https://github.com/jjm2317">
+              <img src="https://avatars.githubusercontent.com/u/67041750?v=4" width="100;" alt="soomgo-holand"/>
               <br />
-              <sub><b>Hazel</b></sub>
-          </a>
-      </td>
-      <td align="center">
-          <a href="https://github.com/ae-hyon">
-              <img src="https://avatars.githubusercontent.com/u/152838350?v=4" width="100;" alt="soomgo-sana"/>
-              <br />
-              <sub><b>Sana</b></sub>
+              <sub><b>Holand</b></sub>
           </a>
       </td>
       </tr>
