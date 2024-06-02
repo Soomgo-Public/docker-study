@@ -9,13 +9,7 @@
 
 ## vs Volume mounts
 
-<img width="808" src="https://github.com/wonjin-dev/wikis/assets/82315118/edfa2c2e-7fd2-4f03-a034-97339ce66725" />
-
-### 요약
-
 - 볼륨 마운트: Docker가 관리하는 별도 파일 시스템, 느리지만 격리 강함.
 - 바인드 마운트: 호스트와 컨테이너를 직접 연결, 빠르지만 격리 약함.
-
-<img width="808" src="https://github.com/wonjin-dev/wikis/assets/82315118/58af2453-a3d9-48ef-938c-950f4df0549b" />
 
 - `로컬` 개발 설정에서는 바인드 마운트를 사용하는 것이 일반적이다. <br/>(장점은 개발 머신에 모든 빌드 도구와 환경을 설치할 필요없기 때문에)

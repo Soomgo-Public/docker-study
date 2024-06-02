@@ -69,4 +69,4 @@ NAT의 일종으로 공인 IP 주소를 통해 특정 로컬 장치로 트래픽
 
 <br/>
 
-<a href="https://github.com/wonjin-dev/wikis/blob/main/CS/03.%20DHCP.md">DHCP 좀 더 알아보기</a>
+<a href="https://github.com/wonjin-dev/wiki/blob/main/CS/DHCP.md">DHCP 좀 더 알아보기</a>

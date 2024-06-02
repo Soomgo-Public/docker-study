@@ -35,9 +35,7 @@ volume의 약자이다.<br/>
 
 ## 숨고 Dockerfile 실행환경 개선
 
-### 이미지 경량화
-
-<img width="758" alt="스크린샷 2023-11-12 오후 8 45 54" src="https://github.com/wonjin-dev/wikis/assets/82315118/35c07f18-c1d8-41cb-b91d-7a4a52df3ea9" />
+> 알파인을 통한 도커 이미지 경량화
 
 <br/>
 
