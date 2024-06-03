@@ -1,10 +1,11 @@
 # 🐳 숨고 구성원과 함께하는 Docker 공식문서 스터디
 
-<img src="https://github.com/Soomgo-public/docker-study/assets/82315118/19fc0801-2043-4cdc-8fb5-6fd70c5d3cc8" width="350" height="350" />
+<img src="https://github.com/Soomgo-public/docker-study/assets/82315118/94f29715-caeb-406a-9063-694f0e351eef" width="250" height="350" />
 
 <br />
 
-<a href="./Season1">**_Season 1 공식문서 스터디_**</a>
+<a href="./Season1">**_Season1 `공식문서` 스터디_**</a><br/>
+<a href="./Season2">**_Season2 `도커교과서` 스터디_**</a>
 
 <br/>
 
